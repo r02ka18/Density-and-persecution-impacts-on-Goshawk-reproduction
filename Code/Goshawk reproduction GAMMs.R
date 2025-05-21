@@ -26,5 +26,6 @@ lag_rain <- t(matrix(1:20, nrow= 20, ncol= nrow(goshawks_final_2)))
 lag_rain_long <- t(matrix(1:46, nrow= 46, ncol= nrow(goshawks_final_2)))
 lag_spatial <- t(matrix(1:49, nrow= 49, ncol= nrow(goshawks_final_2)))
 
+nfkjhdkgjb
 
 
