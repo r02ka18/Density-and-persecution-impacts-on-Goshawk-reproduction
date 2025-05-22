@@ -1,0 +1,1 @@
+This project contains the redacted data and code associated with the paper "Density-dependence has a potentiall larger regulartory effect than persecution on the reproductive traits of a recovering predator" by August, K et al. 
